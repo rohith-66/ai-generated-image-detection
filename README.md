@@ -99,7 +99,7 @@ Recommended platform:
 - Python version ≥ 3.9
 
 Clone repository:
-git clone https://github.com/<USERNAME>/ai-generated-image-detection.git
+git clone https://github.com/rohith-66/ai-generated-image-detection.git
 cd ai-generated-image-detection
 
 Install dependencies:
