@@ -71,6 +71,7 @@ drive.mount('/content/drive')
 Set the dataset root path:
 
 DATA_ROOT = "/content/drive/MyDrive/AI_Image_Detection_Data"
+Drivelink : https://drive.google.com/drive/folders/1_eOJYn3O3o-pz9xirupHQ0Cm9f8Rgfc9
 
 All dataset paths should be constructed relative to DATA_ROOT.
 
